@@ -1,0 +1,221 @@
+{
+ "islas": [
+  "Hawaii",
+  "Honolulu",
+  "Kauai",
+  "Maui"
+ ],
+ "barrios": [
+  "Central Oahu",
+  "East Honolulu",
+  "Ewa",
+  "Hamakua",
+  "Hana",
+  "Kapaa-Wailua",
+  "Kau",
+  "Kihei-Makena",
+  "Koloa-Poipu",
+  "Koolauloa",
+  "Koolaupoko",
+  "Lahaina",
+  "Lanai",
+  "Lihue",
+  "Makawao-Pukalani-Kula",
+  "Molokai",
+  "North Hilo",
+  "North Kohala",
+  "North Kona",
+  "North Shore Kauai",
+  "North Shore Oahu",
+  "Paia-Haiku",
+  "Primary Urban Center",
+  "Puna",
+  "South Hilo",
+  "South Kohala",
+  "South Kona",
+  "Waianae",
+  "Wailuku-Kahului",
+  "Waimea-Kekaha"
+ ],
+ "isla_de_barrio": {
+  "Central Oahu": "Honolulu",
+  "East Honolulu": "Honolulu",
+  "Ewa": "Honolulu",
+  "Hamakua": "Hawaii",
+  "Hana": "Maui",
+  "Kapaa-Wailua": "Kauai",
+  "Kau": "Hawaii",
+  "Kihei-Makena": "Maui",
+  "Koloa-Poipu": "Kauai",
+  "Koolauloa": "Honolulu",
+  "Koolaupoko": "Honolulu",
+  "Lahaina": "Maui",
+  "Lanai": "Maui",
+  "Lihue": "Kauai",
+  "Makawao-Pukalani-Kula": "Maui",
+  "Molokai": "Maui",
+  "North Hilo": "Hawaii",
+  "North Kohala": "Hawaii",
+  "North Kona": "Hawaii",
+  "North Shore Kauai": "Kauai",
+  "North Shore Oahu": "Honolulu",
+  "Paia-Haiku": "Maui",
+  "Primary Urban Center": "Honolulu",
+  "Puna": "Hawaii",
+  "South Hilo": "Hawaii",
+  "South Kohala": "Hawaii",
+  "South Kona": "Hawaii",
+  "Waianae": "Honolulu",
+  "Wailuku-Kahului": "Maui",
+  "Waimea-Kekaha": "Kauai"
+ },
+ "centroides": {
+  "Central Oahu": [
+   21.462229999999998,
+   -158.0131422
+  ],
+  "East Honolulu": [
+   21.28448,
+   -157.71397
+  ],
+  "Ewa": [
+   21.332985,
+   -158.12123
+  ],
+  "Hamakua": [
+   20.081229999999998,
+   -155.49969
+  ],
+  "Hana": [
+   20.7589865,
+   -155.988535
+  ],
+  "Kapaa-Wailua": [
+   22.056296,
+   -159.32567095000002
+  ],
+  "Kau": [
+   19.100615,
+   -155.6302701
+  ],
+  "Kihei-Makena": [
+   20.71985,
+   -156.44614436669923
+  ],
+  "Koloa-Poipu": [
+   21.87621,
+   -159.45683
+  ],
+  "Koolauloa": [
+   21.676229999999997,
+   -157.949295
+  ],
+  "Koolaupoko": [
+   21.39554,
+   -157.73724
+  ],
+  "Lahaina": [
+   20.946035000000002,
+   -156.689515
+  ],
+  "Lanai": [
+   20.8261214,
+   -156.9213861
+  ],
+  "Lihue": [
+   21.9620979,
+   -159.34901
+  ],
+  "Makawao-Pukalani-Kula": [
+   20.82045,
+   -156.318095
+  ],
+  "Molokai": [
+   21.18491,
+   -157.24348
+  ],
+  "North Hilo": [
+   19.95847,
+   -155.218905
+  ],
+  "North Kohala": [
+   20.22456,
+   -155.82983
+  ],
+  "North Kona": [
+   19.616091340942383,
+   -155.9772195535714
+  ],
+  "North Shore Kauai": [
+   22.22206,
+   -159.47990499999997
+  ],
+  "North Shore Oahu": [
+   21.64157,
+   -158.06133
+  ],
+  "Paia-Haiku": [
+   20.91575,
+   -156.32353
+  ],
+  "Primary Urban Center": [
+   21.28122,
+   -157.82927999999998
+  ],
+  "Puna": [
+   19.48461,
+   -154.97998
+  ],
+  "South Hilo": [
+   19.7256903,
+   -155.08735
+  ],
+  "South Kohala": [
+   19.9281517213682,
+   -155.87026
+  ],
+  "South Kona": [
+   19.468897,
+   -155.9014
+  ],
+  "Waianae": [
+   21.48086,
+   -158.20207
+  ],
+  "Wailuku-Kahului": [
+   20.89086,
+   -156.49118
+  ],
+  "Waimea-Kekaha": [
+   21.96183,
+   -159.70113
+  ]
+ },
+ "room_types": [
+  "Entire home/apt",
+  "Hotel room",
+  "Private room",
+  "Shared room"
+ ],
+ "property_groups": [
+  "Apartment",
+  "Condo",
+  "Guest unit",
+  "Hotel/Resort",
+  "House",
+  "Other"
+ ],
+ "host_location_groups": [
+  "Elsewhere",
+  "Hawaii",
+  "Unknown"
+ ],
+ "tasa_global_recomendados": 0.6050608060206141,
+ "medianas": {
+  "availability_30": 11.0,
+  "availability_365": 254.0,
+  "maximum_nights": 365.0,
+  "minimum_nights": 2.0,
+  "n_amenities": 46.0
+ }
+}
